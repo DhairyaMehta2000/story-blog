@@ -1,0 +1,32 @@
+p{
+  margin: 10px 0 !important;
+}
+
+.img-small{
+  width: 180px;
+}
+
+.login-container{
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
+}
+body{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlhIhy9Fnk28IvlzxinYJoJr-gyMSVz_91UQ&usqp=CAU');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
+
+}
+
+.fa-small{
+  font-size: 16px !important
+}
+
+.btn-float{
+  float:left;
+  margin-right: 10px;
+  margin-bottom: 8px;
+
+}
